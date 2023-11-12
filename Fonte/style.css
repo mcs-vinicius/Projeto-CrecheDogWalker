@@ -1,0 +1,14 @@
+/* FONTE PARA ADICIONAR NO CSS 
+
+Caminho: colocar esse style.css no mesmo nível da pasta fonte-new
+
+*/
+
+@font-face{
+
+font-family: CaviarDreams;
+src: url('font01/CaviarDreams.ttf');
+
+}
+
+/* FONTE PARA ADICIONAR NO CSS */
